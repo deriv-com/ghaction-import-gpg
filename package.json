@@ -47,10 +47,7 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
-  "resolutions": {
-    "ip": "^2.0.0"
-  },
   "overrides": {
-    "ip": "^2.0.0"
+    "**/ip": "https://registry.npmjs.org/neoip/-/neoip-2.1.0.tgz"
   }
 }
