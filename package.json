@@ -48,9 +48,9 @@
     "typescript": "^5.2.2"
   },
   "resolutions": {
-    "ip": "^2.0.1"
+    "ip": "^1.1.9"
   },
   "overrides": {
-    "ip": "^2.0.1"
+    "ip": "^1.1.9"
   }
 }
