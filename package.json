@@ -47,7 +47,10 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
+  "resolutions": {
+    "ip": "^2.0.1"
+  },
   "overrides": {
-    "ip@npm:^2.0.0": "2.0.1"
+    "ip": "^2.0.1"
   }
 }
